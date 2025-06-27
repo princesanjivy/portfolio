@@ -13,7 +13,7 @@ export default function Reviews() {
       name: "Apoorv Pandey",
       app: "PTU CGPA Tracker",
       rating: 3,
-      review: "What users liked about the apps I've built and published",
+      review: "Good app for cgpa calculation but lots of ads come!!",
     },
     {
       name: "A Google user",
