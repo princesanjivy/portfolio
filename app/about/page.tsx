@@ -29,11 +29,11 @@ export default function About() {
             <p className="text-lg sm:text-xl md:text-2xl font-light max-w-2xl">
               I am currently a software engineer at{" "}
               <a
-                href="https://striim.com"
+                href="https://www.jpmorganchase.com/"
                 target="_blank"
                 className="font-normal hover:underline"
               >
-                Striim
+                JPMorganChase
               </a>
               , where I continue to leverage my expertise in{" "}
               <strong>Golang</strong> and other technologies to build innovative
