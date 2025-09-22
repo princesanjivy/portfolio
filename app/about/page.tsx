@@ -36,7 +36,7 @@ export default function About() {
                 JPMorganChase
               </a>
               , where I continue to leverage my expertise in{" "}
-              <strong>Golang</strong> and other technologies to build innovative
+              <strong>Python</strong> and other technologies to build innovative
               software solutions.
             </p>
           </div>
